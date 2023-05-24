@@ -32,7 +32,7 @@ body {
   
   .btn:hover {
     background: #24c5c2;
-    color: #221a1a;
+    color: #3a2727;
   }
   
   .header {
@@ -41,7 +41,7 @@ body {
     left: 0;
     right: 0;
     z-index: 1000;
-    background: #1f221c;
+    background: #2e3526;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -71,7 +71,7 @@ body {
 
   .logo {
     font-size: 2.5rem;
-    color: #212523;
+    color: #11884d;
     font-weight: bolder;
   }
   
@@ -105,7 +105,7 @@ body {
 	margin-right: 50px;
 	font-size: 18px;
 	font-weight: 600;
-	color: #3a3d51;
+	color: #3a3e58;
 	cursor: pointer;
 }
 
@@ -168,7 +168,7 @@ body {
 
 .lboard_wrap .lboard_mem .points{
 	width: 100px;
-	color: #3a3d51;
+	color: #414666;
 }
 
 .lboard_wrap .lboard_mem .name_bar .bar_wrap{
@@ -191,7 +191,7 @@ body {
 	border-top-right-radius: 0px;
 	border-bottom-right-radius: 0px;
 }
-<!--ForLeaderboard-Start-->
+<!--ForLeaderboard-End-->
 * {
   margin: 0;
   padding: 0;
@@ -206,6 +206,8 @@ body {
   min-height: 100vh;
   
 }
+
+<!---Text in Intro-Start--->
 .wrapper {
   display: flex;
 }
@@ -264,4 +266,13 @@ body {
       left: 100%;
       margin: 0 -35px 0 35px;
   }
+}
+
+<!---Text in Intro-End--->
+
+.t{
+  color: #11884d;
+  text-align: center;
+  font-family: 'Great Vibes', cursive;
+font-family: 'Prata', serif;
 }
