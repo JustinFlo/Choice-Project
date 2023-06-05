@@ -264,11 +264,18 @@ body {
 <!---Text in Intro-End--->
 
 .the{
-  color: #11884d;
-  text-align: center;
-  font-family: 'Great Vibes', cursive;
+}
+
+
+.the2{
+  color: #808811;
+  font-size: medium;
+   font-family: 'Great Vibes', cursive;
 font-family: 'Prata', serif;
 }
+
+
+
 
 
 .container {
@@ -331,10 +338,12 @@ font-family: 'Prata', serif;
 
 .blog-post_date span {
   display: block;
-  color: #00000080;
+  color: #0f0b0ba6;
   font-size: 1.6rem;
   font-weight: 600;
   margin: .5rem 0;
+  font-family: 'Great Vibes', cursive;
+font-family: 'Prata', serif;
 }
 
 .blog-post_title {
@@ -342,6 +351,8 @@ font-family: 'Prata', serif;
   margin: 1.5rem 0 2rem;
   text-transform: uppercase;
   color: #fe4f4f;
+  font-family: 'Great Vibes', cursive;
+font-family: 'Prata', serif;
 }
 
 .blog-post_text {
@@ -527,7 +538,7 @@ body {
   color: #fff;
   border-radius: 3px;
   text-decoration: none;
-  background-color: #ff4081;
+  background-color: #ff4080;
 }
 
 .slide-image img {
